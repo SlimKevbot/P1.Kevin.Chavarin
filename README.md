@@ -8,6 +8,7 @@
 The report starts from this line
 
 ---
+![Example Elevator](https://github.com/SlimKevbot/P1.Kevin.Chavarin/blob/main/P1_Kevin_Chavarin_Example.png)
 
 ### Good Design
 - Braille next to each button
