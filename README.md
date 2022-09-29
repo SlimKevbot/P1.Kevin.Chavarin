@@ -24,6 +24,8 @@ The report starts from this line
 
 - Unclear how the phone icon and bell icon differ
 
+![My Sketch](https://github.com/SlimKevbot/P1.Kevin.Chavarin/blob/main/P1_Kevin_Chavarin_Sketch.png)
+
 ### Design Improvements and Preventing Errors
 
 - Allow users to back out of floor selection
@@ -43,6 +45,8 @@ The report starts from this line
 - Sound of info text will help those who cannot see 
 
 - Touch screen lower to the ground that provides haptic feedback
+
+![My Gif](https://github.com/SlimKevbot/P1.Kevin.Chavarin/blob/main/p1_Kevin_Chavarin.gif)
 
 ### Demo
 [Kevin Chavarin Proj1](https://youtu.be/YRUEYltnGQU)
