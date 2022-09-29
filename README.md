@@ -44,11 +44,7 @@ The report starts from this line
 - Touch screen lower to the ground that provides haptic feedback
 
 ### Demo
-[Kevin Chavarin Proj1](https://huyen-nguyen.github.io/hci-template) (e.g. https://huyen-nguyen.github.io/hci-template, contains content of this README)
+[Kevin Chavarin Proj1](https://youtu.be/YRUEYltnGQU)
 
-[GitHub repository](https://github.com/huyen-nguyen/hci-template) (e.g. https://github.com/huyen-nguyen/hci-template)
-
-[Demo](https://huyen-nguyen.github.io/hci-template/demo.html) (e.g. https://huyen-nguyen.github.io/hci-template/demo.html, the demo file **should not** be named index.html)
-
-[Video (optional)](https://www.youtube.com/embed/uilkmUoXoLU) (e.g. https://www.youtube.com/embed/uilkmUoXoLU - embed link)
+[GitHub repository](https://github.com/)
 
